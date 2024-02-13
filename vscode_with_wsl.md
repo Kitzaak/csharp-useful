@@ -18,8 +18,8 @@ Add the following line to <PropertyGroup> section of the csproj file:
 `<StartupObject>"namespace"."class with Main()"</StartupObject>`
 
 
-#####Code Complete
+#####Enable IntelliSense
 1) Install extension "C#" in WSL
 2) Open Settings-->Extensions-->C#-->OmniSharpe (may require restart of vscode)
 3) Under "User", check `Dotnet > Server: Use OmniSharp`
-4) Restart vscode and the language server will be installed, code complete function will be enabled
+4) Restart vscode and the language server will be installed, IntelliSense functionality will be enabled
